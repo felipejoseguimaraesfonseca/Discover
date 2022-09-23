@@ -1,0 +1,22 @@
+{
+    "name": "Felipe José",
+    "city": "Nova Ponte",
+    "cellphone_number": 9008908908,
+    "bookmarks_books": [
+        "Darwin sem Frescura",
+        "Uma brve história do tempo",
+        "O mundo assombrado pelos demônios"
+    ],
+    "hobbies": {
+        "week": "Filmes ou séries",
+        "weekend": {
+            "saturday": "Filmes ou séries",
+            "sunday": "Filmes ou séries",
+            "others": [
+                "Mexer no celular",
+                "Assistir videos no youtube",
+                "Filmes ou séries"
+            ]
+        }
+    }
+}

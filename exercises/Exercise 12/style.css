@@ -1,0 +1,11 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .8rem;
+    justify-content: center;
+}

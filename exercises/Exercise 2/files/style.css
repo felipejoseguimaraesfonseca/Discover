@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(43, 102, 230);
+}
+
+h1, nav, a, #text{
+    color: rgb(255, 255, 255);
+    margin: 15px 0px 0px 20px;
+}
+
+#text {
+    margin: 5px 50px 0px 40px;
+}
+
+#blackhole, #darkenergy {
+    width: 30%;
+    height: 200px;
+    margin: 0px auto;
+    display: block;
+}
+
+#blackhole {
+    margin-top: 50px;
+}
+
+#darkenergy {
+    margin-top: 20px;
+}

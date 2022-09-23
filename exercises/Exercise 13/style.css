@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    gap: .8rem;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    line-height: 0;
+    gap: .4rem;
+    background-color: white;
+    border: solid white;
+}
+
+button img {
+    width: 2rem;
+    height: 2rem;
+}
